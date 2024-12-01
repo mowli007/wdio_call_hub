@@ -23,7 +23,7 @@ exports.config = {
     // specs: [
     //     'test.e2e.js'
     // ]
-    specs: ["./test/specs/sauce_demo.e2e.js"],
+    specs: ["./test/specs/Campaign_demo.e2e.js"],
     // Patterns to exclude.
     exclude: [
         // 'path/to/excluded/files'
@@ -55,7 +55,7 @@ exports.config = {
         browserName: 'chrome' // or "firefox", "microsoftedge", "safari"
     }],
 
-    baseUrl: "https://www.saucedemo.com/",
+    baseUrl: "https://callhub.io",
     //
     // ===================
     // Test Configurations

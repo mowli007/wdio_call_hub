@@ -1,0 +1,7 @@
+{
+    "name": "login-po",
+    "version": "0.1.1",
+    "description": "Login Page object",
+    "main": "login_page.js",
+    "dependencies": {}
+}

@@ -1,0 +1,7 @@
+{
+    "name": "campaign-po",
+    "version": "0.1.1",
+    "description": "Campaign Page object",
+    "main": "campaign_page.js",
+    "dependencies": {}
+}
